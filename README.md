@@ -43,7 +43,7 @@ There are a lot of websites to study python; however, I would like to share some
 
 
 
-```LaTeX
+```math
 \sin{x} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} \ldots
 ```
 
