@@ -27,7 +27,7 @@ Python scripts for some exercises and proofs.
 There are a lot of websites to study python; however, I would like to share some extra basic material created by some groups where I worked, the most of the material was created by students, I hope you enjoy it and it helps in your practice.
 
 
-## 1. [Examoles](#exa01)
+## 1. [Examples](#exa01)
 
 
 
